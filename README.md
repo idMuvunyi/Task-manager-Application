@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# Task-manager-Application
+Simple web application to track some tasks progress. built with different technologies: React,NodeJS, ExpressJS and MongoDB. #MERN STACK
+
+
+// to connect to the database mongodb atlas was use to store data. see the (.env file) to change <password> and <dbname> to your own credentials for testing. 
+>>>>>>> 0d6de51d5bf66367070c16c7e89b19b1f80928fd
