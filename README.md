@@ -1,2 +1,2 @@
 # Task-manager-Application
-Simple web application to track some tasks progress. built with different technologies: React,NodeJS, ExpressJS and MongoDB. 
+Simple web application to track some tasks progress. built with different technologies: React,NodeJS, ExpressJS and MongoDB. #MERN STACK
